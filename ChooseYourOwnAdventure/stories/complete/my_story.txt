@@ -1,0 +1,46 @@
+
+You walk into a cafe.
+2: Order a drink.
+3: Find a spot to sit.
+4: Ask the barista very politely where they're keeping the cats.
+4
+
+The barista looks around frantically, he says he doesn't know what you're talking about.
+4: Politely insist they tell you where they're keeping the cats.
+7: Tell them they can't play dumb with you.
+16: Give up and go home.
+4
+
+The barista looks around frantically, he says he doesn't know what you're talking about.
+4: Politely insist they tell you where they're keeping the cats.
+7: Tell them they can't play dumb with you.
+16: Give up and go home.
+7
+
+The barista shushes you and tells you if you want to see the cats you have to follow him
+9: Follow him.
+16: Go home.
+9
+
+You follow him to a bookshelf that covers the span of the whole wall. He skims the shelf for a book.
+15: Tell him to hurry up!
+10: Wait and see what happens next.
+10
+
+Suddenly you are being rotated as the bookshelf flips you into a secret room! The room is pitch black.
+11: Panic!!!!
+12: Stand completely still
+12
+
+The lights come on, and you see a room perfectly tailored for cats of all kinds. It's also full of cats. 
+13: Hang out with the cats for a while.
+17: Realize you're allergic to cats and feel you've made a grave mistake.
+13
+
+You enjoy each others presence and all of your anxieties melt away.
+16: Go home.
+18: Make this your home.
+18
+
+You wake up to the warmth of the sun shining onto you through your window.
+-2: Was it all just a dream?

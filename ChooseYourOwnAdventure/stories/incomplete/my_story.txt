@@ -1,0 +1,18 @@
+You walk into a cafe. : Order a drink. = 2 | Find a spot to sit. = 3 | Ask the barista very politely where they're keeping the cats. = 4
+The barista asks if you if you would like it for here or to go. : Take it to go. = 5 | Ask the barista why they care. = 6
+You sit at the table right next to a bookshelf that covers the span of the wall. : Order a drink. = 2 | Grab a book to read. = 8 | Sit and enjoy yourself. = 14
+The barista looks around frantically, he says he doesn't know what you're talking about. : Politely insist they tell you where they're keeping the cats. = 4 | Tell them they can't play dumb with you. = 7 | Give up and go home. = 16
+You pick up your drink and notice it's not in a to go cup at all. : Find a spot to sit. = 3 | Make a scene. = 6 | Go home. = 16
+They (and also I) am taken aback by your sass : Try again. = 2 | Keep being sassy for no reason. = 15
+The barista shushes you and tells you if you want to see the cats you have to follow him : Follow him. = 9 | Go home. = 16
+You skim the shelf for something interesting. : Stare blankly at the shelf = 8 | Pull out a book about cats = 10 | Return to your table. = 14
+You follow him to a bookshelf that covers the span of the whole wall. He skims the shelf for a book. : Tell him to hurry up! = 15 | Wait and see what happens next. = 10
+Suddenly you are being rotated as the bookshelf flips you into a secret room! The room is pitch black. : Panic!!!! = 11 | Stand completely still = 12
+You hear what sounds like claws repeatedly ripping through carpet. : Panic!!!!! = 11 | Stand completely still. = 12
+The lights come on, and you see a room perfectly tailored for cats of all kinds. It's also full of cats.  : Hang out with the cats for a while. = 13 | Realize you're allergic to cats and feel you've made a grave mistake. = 17
+You enjoy each others presence and all of your anxieties melt away. : Go home. = 16 | Make this your home. = 18
+You couldn't have asked for a more relaxing afternoon. : Go home. = 16 | Give that bookshelf a go. = 8
+The barista (and also I) will have none of your sass today. : You need to check that attitude, and also you're kicked out = -1
+You roll down the windows and play your favorite song the whole way home. : You realize nothing can bring you down & life is good. = -2
+The barista is nowhere to be found and there is no exit or allergy medicine in site. : So this is how it ends huh... = -1
+You wake up to the warmth of the sun shining onto you through your window. : Was it all just a dream? = -2

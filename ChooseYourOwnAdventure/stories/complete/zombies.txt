@@ -1,0 +1,30 @@
+
+You are in a dark room.
+2: Search the room.
+3: Make some noise.
+4: Turn on your flashlight.
+4
+
+You are standing in a small stone room. There is door to the north
+5: Open the door.
+1: Make another choice.
+5
+
+You see a hallway stretching west and east into the darkness.
+6: Go west.
+7: Go east.
+5
+
+Please enter a valid option...
+5
+
+Please enter a valid option...
+6
+
+You see a hallway stretching west and east into the darkness.
+6: Go west.
+7: Go east.
+7
+
+A zombie attacks you in the crowded corridor.
+-1: You are now dead.
